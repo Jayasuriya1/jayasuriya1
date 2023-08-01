@@ -10,38 +10,38 @@
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 💬 Ask me about **JS, HTML, CSS, React.js,Node.js, MySQL, MongoDB**
+- 💬 Ask me about **JS, HTML, CSS, React.js,Node.js, MongoDB**
 
 - 📫 How to reach me **jaya1999suriya1@gmail.com**
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact:Banging your head against a wall for one hour burns **150 calories**.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;Find me on Telegram: **(https://www.linkedin.com/in/jayasuriya-sudhakar-742bb0168/)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Cuddling Heals Wounds and Fights Depression.<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-<a href="">
+<a href="https://react.dev/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
+   <a href="https://nodejs.org/en">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components" align="center">
+<a href=https://expressjs.com/" align="center">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=df5c43">  
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.mongodb.com/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=cd6799">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://html.spec.whatwg.org/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
