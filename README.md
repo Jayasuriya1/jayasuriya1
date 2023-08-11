@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JS, HTML, CSS, React.js,Node.js, MongoDB**
 
-- 📫 How to reach me **jaya1999suriya1@gmail.com**
+- 📫 How to reach me **sudhakar.jayasuriya@gmail.com**
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;Find me on Telegram: **(https://www.linkedin.com/in/jayasuriya-sudhakar-742bb0168/)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Cuddling Heals Wounds and Fights Depression.<br>
