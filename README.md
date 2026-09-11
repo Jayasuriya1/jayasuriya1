@@ -40,6 +40,6 @@ Focused on Arrays · Strings · Linked Lists · Trees · Graphs · Binary Search
 
 ### 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/jayasuriya-sudhakar/) · [Portfolio](https://jayasuriya1.netlify.app/) · [LeetCode](https://leetcode.com/u/Jayasuriya17/)
+[LinkedIn](https://www.linkedin.com/in/jayasuriya-sudhakar/) · [Portfolio](https://iamjayasuriya.vercel.app/) · [LeetCode](https://leetcode.com/u/Jayasuriya17/)
 
 📧 **[jayasuriyaprogrammer@gmail.com](mailto:jayasuriyaprogrammer@gmail.com)**
